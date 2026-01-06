@@ -1,0 +1,2 @@
+2026-01-05 22:50:28,933 [INFO] Processando requisição segura. Ingredientes: string
+2026-01-05 22:50:30,531 [ERROR] Falha na camada de IA: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
