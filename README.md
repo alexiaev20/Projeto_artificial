@@ -1,4 +1,4 @@
-Este projeto é um MVP (Mínimo Produto Viável) de um Agente de IA especializado em Gastronomia. A solução foca na aplicação prática de Inteligência Artificial através de uma arquitetura robusta, segura e escalável para modelos de negócio SaaS.
+Este projeto é um MVP de um Agente de IA especializado em Gastronomia. A solução foca na aplicação prática de Inteligência Artificial através de uma arquitetura robusta, segura e escalável para modelos de negócio SaaS.
 
 🚀 Tecnologias Utilizadas
 Backend: Python 3.12+ com FastAPI (Assíncrono e de alta performance).
@@ -58,5 +58,6 @@ Acesse a documentação interativa (Swagger): Acesse: http://127.0.0.1:8000/docs
 [ ] Adição de camada de Cache com Redis para otimização de custos.
 
 [ ] Containerização com Docker.
+
 
 Desenvolvido por Alexia Melo
